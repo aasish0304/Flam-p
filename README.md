@@ -9,11 +9,6 @@
 - Web app (`index.html` + `app.js`) displays processed frames in browser.
 
 ---
-
-## 🖼 Demo
-![App Screenshot](docs/screenshot.png)  
-*(Add a GIF or screenshot of your app running.)*
-
 ---
 
 ## ⚙️ Setup Instructions
